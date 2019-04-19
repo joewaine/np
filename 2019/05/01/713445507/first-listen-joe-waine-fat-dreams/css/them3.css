@@ -1,0 +1,21 @@
+/* title highlight color */
+.branding__title--custom-text > b {
+    color: #f05b4e;
+}
+
+
+
+@media only screen and (max-width: 1024px) {
+    .navigation__top-level {
+        height: 56px;
+    padding-right: 10px;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 768px) {
+    .npr-header {
+        margin-top: 0px;
+    }
+  }
